@@ -72,7 +72,7 @@
     "@cumulus/errors": "19.0.0",
     "@cumulus/logger": "19.0.0",
     "@cumulus/types": "19.0.0",
-    "jsonpath-plus": "^1.1.0",
+    "jsonpath-plus": "^10.0.0",
     "lodash": "~4.17.21",
     "mem": "^8.0.2",
     "p-map": "^1.2.0",
